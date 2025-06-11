@@ -1,0 +1,26 @@
+.container-search{
+    background-color: #e5e5e5;
+    height: 100vh;
+}
+
+.searchList{
+    display: flex;
+    justify-content: center;
+}
+
+.searchList ul{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.searchList li{
+    padding: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+
+.searchInput{
+    margin: 100px;
+}

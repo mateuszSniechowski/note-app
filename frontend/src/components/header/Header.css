@@ -1,0 +1,25 @@
+.navBar{
+    background-color: #14213d;
+    padding: 20px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    margin: 0 30px;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 20px;
+}
+
+a:hover{
+    color: #fca311;
+}
